@@ -23,7 +23,6 @@ The output is Counter which is 4 bit in size.
 	Changing mode doesn't reset the Count value to zero.
 
 	You have to apply high value to reset, to reset the Counter output.
- 
 ![image](https://github.com/user-attachments/assets/efe1095e-989e-4005-b53b-e9dc50d4025c)
 
 ## Fig 1: 4 Bit Up/Down Counter
@@ -186,11 +185,6 @@ It contains statements that map logical library names to their physical director
 
 ## Fig 10: Simulation Waveform Window
 <img width="1920" height="1080" alt="Screenshot (201)" src="https://github.com/user-attachments/assets/e70c24a1-e1b6-49c6-af27-63c7d22326d9" />
-
-## Fig 11: Simulation Waveform Window
-Result
-The functionality of a 4bit_up-down asynchronous reset Counter was successfully verified using a test bench and simulated with the nclaunch tool.
-
 
 ## Fig 11: Simulation Waveform Window
 
